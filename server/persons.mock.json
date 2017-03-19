@@ -1,0 +1,27 @@
+[
+  {
+    "id" : 1,
+    "firstName" : "userA",
+    "lastName" : "lastNameA",
+    "email" :  "mailA@test.com"
+  },
+  {
+    "id" : 2,
+    "firstName" : "userB",
+    "lastName" : "lastNameB",
+    "email" :  "mailB@test.com"
+  },
+  {
+    "id" : 3,
+    "firstName" : "userC",
+    "lastName" : "lastNameC",
+    "email" :  "mailC@test.com"
+  },
+  {
+    "id" : 4,
+    "firstName" : "userD",
+    "lastName" : "lastNameD",
+    "email" :  "mailD@test.com"
+  }
+
+]
