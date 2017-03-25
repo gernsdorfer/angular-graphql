@@ -1,0 +1,38 @@
+[
+  {
+    "id" : 1,
+    "personId" : 1,
+    "content" : "sample post",
+    "title" : "title A"
+  },
+  {
+    "id" : 2,
+    "personId" : 1,
+    "content" : "sample post B",
+    "title" : "title B"
+  },
+  {
+    "id" : 3,
+    "personId" : 3,
+    "content" : "sample post C",
+    "title" : "title C"
+  },
+  {
+    "id" : 4,
+    "personId" : 4,
+    "content" : "sample post D",
+    "title" : "title D"
+  },
+  {
+    "id" : 5,
+    "personId" : 4,
+    "content" : "sample post E",
+    "title" : "title E"
+  },
+  {
+    "id" : 6,
+    "personId" : 4,
+    "content" : "sample post F",
+    "title" : "title F"
+  }
+]
